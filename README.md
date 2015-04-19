@@ -8,11 +8,14 @@ The acquired data will be output to a CSV file
 
 ## Usage
 
-getsp <securities code>
+```
+$ getsp <securities code>
+```
 
--example-
-getsp 7203
-
+Example:
+```
+$ getsp 7203
+```
 
 ## Install
 
